@@ -1,0 +1,12 @@
+{
+  "name": "better-lgu-design",
+  "version": "0.1.0",
+  "description": "Shared design system and civic patterns for community-built Philippine LGU portals, drawn from Better Naguilian, BetterSolano, BetterLB and betterlocalgov: OKLCH tokens with dark and high-contrast modes, shadcn/ui variants, a Kapwa token crosswalk, forking config with LGU-type labels, sourced facts, Citizen's Charter service pages, languages and accessibility rules.",
+  "author": {
+    "name": "baeintech — Bae"
+  },
+  "homepage": "https://github.com/baeyacorpuz/better-lgu-design",
+  "repository": "https://github.com/baeyacorpuz/better-lgu-design",
+  "license": "MIT",
+  "keywords": ["design-system", "shadcn", "kapwa", "tailwind", "civic-tech", "philippines", "lgu", "bettergov", "accessibility"]
+}

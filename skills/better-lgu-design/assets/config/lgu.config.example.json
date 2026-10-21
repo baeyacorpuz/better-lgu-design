@@ -1,0 +1,41 @@
+{
+  "lgu": {
+    "type": "municipality",
+    "name": "<Town>",
+    "fullName": "Municipality of <Town>",
+    "province": "<Province>",
+    "region": "<Region name>",
+    "regionCode": "<Region code>",
+    "psgc": "",
+    "officialWebsite": "#",
+    "officialFacebook": "#",
+    "timeZone": "Asia/Manila",
+    "coordinates": { "lat": 0, "lon": 0 }
+  },
+  "portal": {
+    "name": "Better<Town>",
+    "footerName": "Better <Town>",
+    "domain": "",
+    "baseUrl": "",
+    "tagline": "A community-built guide to <Town> services",
+    "brandHue": 158,
+    "themeColor": "#1f3d32",
+    "volunteerEmail": "",
+    "githubUrl": "#",
+    "logoPath": "/logo.svg"
+  },
+  "languages": {
+    "default": "en",
+    "available": ["en"],
+    "planned": ["fil"]
+  },
+  "features": {
+    "services": true,
+    "emergency": true,
+    "government": true,
+    "legislative": true,
+    "transparency": true,
+    "weather": false,
+    "tourism": false
+  }
+}

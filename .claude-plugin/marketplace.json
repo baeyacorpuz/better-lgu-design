@@ -1,0 +1,16 @@
+{
+  "name": "better-lgu-design",
+  "owner": {
+    "name": "baeintech — Bae"
+  },
+  "metadata": {
+    "description": "Shared design system for community-built Philippine LGU portals."
+  },
+  "plugins": [
+    {
+      "name": "better-lgu-design",
+      "source": "./",
+      "description": "Design system and civic patterns for community-built Philippine LGU portals, drawn from the Better<LGU> community templates."
+    }
+  ]
+}
